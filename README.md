@@ -20,9 +20,7 @@ Cilj projekta je:
 Korišteni dataset:
 - **Aircraft Wildlife Strikes, 1990–2015**
 
-Dataset je preuzet s Kaggle platforme:
-
-:contentReference[oaicite:0]{index=0}
+Dataset je preuzet s Kaggle platforme
 
 Dataset sadržava:
 - 174 104 retka
